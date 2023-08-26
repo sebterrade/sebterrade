@@ -9,7 +9,7 @@ School Email: [20sct7@queensu.ca](20sct7@queensu.ca)
 
 **Selected Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,git,github,mysqlfigma,vscode,arduino)]([https://skillicons.dev](https://github.com/sebterrade/))
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust,git,github,mysql,figma,vscode,arduino)]([https://skillicons.dev](https://github.com/sebterrade/))
 
 <!--
 **sebterrade/sebterrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
