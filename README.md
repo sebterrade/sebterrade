@@ -1,4 +1,4 @@
-### Hi I'm Sebastien 👋
+### Hi I'm Sebastien 
 I'm currently a third year Computer Engineering student at Queen's University in Kingston, Ontario, Canada
 
 I'm an ambitious problem solver with a strong passion for teamwork and a knack for technical challenges, deeply interested in microprocessors, embedded systems, and using reinforcement learning for compiler optimization and chip design.
